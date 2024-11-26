@@ -1,4 +1,4 @@
-/* eslint-disable simple-import-sort/imports */
+
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
