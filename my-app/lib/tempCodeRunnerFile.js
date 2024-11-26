@@ -4,7 +4,7 @@ require('dotenv').config();
 
 const USERNAME = process.env.NAUKRI_USERNAME;
 const PASSWORD = process.env.NAUKRI_PASSWORD;
-const JOB_TITLE = 'Software Engineer'; // Change this to your desired job title
+const JOB_TITLE = 'Frontend Developer'; // Change this to your desired job title
 const NUM_APPLICATIONS = 5; // Change this to the number of jobs you want to apply to
 const MAX_RETRIES = 3; // Maximum number of retries for each operation
 
